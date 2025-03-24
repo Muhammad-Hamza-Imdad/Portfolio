@@ -58,7 +58,7 @@ Project is focused on the mathematical modeling of an innovative aluminum-air fu
 
 ## 📞 *Contact Me:*
 Feel free to reach out to me at:  
-muhammadhamzaimdad10@gmail.com
+muhammadhamzaimdad11@gmail.com
 
 Connect with me for collaboration on exciting projects in mechanical engineering, simulations, and mathematical modeling!
 
