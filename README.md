@@ -47,11 +47,11 @@ Welcome to my GitHub! I’m a passionate *Mechanical Engineer* from *Pakistan*. 
 
 ##  *Featured Projects:*
 
-### [Optimized Multi-Element Front Wing for Formula Car](link_to_project)
-Description of the project.
+### [» Optimized Multi-Element Front Wing for Formula Car](link_to_project)
+Project involved the Design, Simulation, and Fabrication of an optimized multi-element splined front wing for a Formula Student car, aimed at enhancing aerodynamic performance.
 
-### [Integrated Aluminum-Air Fuel Cell Model](link_to_project)
-Description of the project.
+### [» Integrated Aluminum-Air Fuel Cell Model](link_to_project)
+Project is focused on the mathematical modeling of an innovative aluminum-air fuel cell and energy storage system designed to power a cruise ship.
 
 
 ---
